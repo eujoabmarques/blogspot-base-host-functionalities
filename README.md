@@ -1,0 +1,1 @@
+# blogspot-base-host-functionalities
